@@ -1,4 +1,4 @@
-# HookFormPractice
+# Hook Form Practice
 
 This was an exercise to create a React Form that prevented entering incorrect
 characters in the respective fields, for example, letters where a phone number should go.
